@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1480" height="596" viewBox="0 0 1480 596">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1480" height="596"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1480" height="596" fill="#fff"/>
+    <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(526 215)">
+      <text id="_Software_solutions_" data-name="{ Software solutions }" transform="translate(0 98)" fill="#003a7d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="25.105" y="51">{</tspan><tspan y="51" font-family="NotoKufiArabic, Noto Kufi Arabic"> </tspan><tspan y="51">Software</tspan><tspan y="51" font-family="NotoKufiArabic, Noto Kufi Arabic"> </tspan><tspan y="51">solutions</tspan><tspan y="51" font-family="NotoKufiArabic, Noto Kufi Arabic"> </tspan><tspan y="51">}</tspan></text>
+      <g id="Group_3" data-name="Group 3" transform="translate(-1492 -622)">
+        <text id="إنجاز" transform="translate(1824 712)" fill="#da7d00" font-size="70" font-family="NotoKufiArabic-Bold, Noto Kufi Arabic" font-weight="700"><tspan x="-74.136" y="0">إنجاز</tspan></text>
+        <text id="سوفت" transform="translate(1628 712)" fill="#003a7d" font-size="70" font-family="NotoKufiArabic-Bold, Noto Kufi Arabic" font-weight="700"><tspan x="-112.639" y="0">سوفت</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
